@@ -50,7 +50,14 @@ h2 {
   color: #fff;
 }
 
-h3 {
+.banner-textoh {
   color: #000;
-  text-align: right;
+  text-align:left;
+  font-size: 25px;
+}
+
+.banner-textohh {
+  color: #000;
+  font-size: 25px;
+  text-align: left;
 }
