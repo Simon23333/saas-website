@@ -1,0 +1,27 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+
+
+html {
+
+font-family: 'Quicksand', sans-serif;
+}
+
+.logo-text {
+  color: #F06F64;
+}
+
+.nav a {
+  color: #F06F64;
+  text-decoration: none;
+}
+
+.btn {
+  border-color: #F06F64;
+  background-color: #F06F64;
+  color: #fff;
+}
