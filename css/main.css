@@ -7,21 +7,32 @@
 
 
 html {
-
 font-family: 'Quicksand', sans-serif;
 }
 
 .logo-text {
+  font-size: 30px;
   color: #F06F64;
 }
 
 .nav a {
-  color: #F06F64;
+  font-size: 15px;
+  color: #fff;
   text-decoration: none;
+  background-color: #F06F64;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #fff;
 }
 
 .btn {
   border-color: #F06F64;
   background-color: #F06F64;
+  color: #fff;
+}
+
+.banner-text {
   color: #fff;
 }
