@@ -7,7 +7,8 @@
 
 html {
 
-font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fbdde0;
 }
 
 .logo-text {
@@ -60,4 +61,14 @@ h2 {
   color: #000;
   font-size: 25px;
   text-align: left;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+  background-color: #fff;
+}
+
+.footer {
+  background-color: white;
+  color: black;
 }
