@@ -1,19 +1,11 @@
-@-moz-viewport { width: device-width; scale: 1; }
-@-ms-viewport { width: device-width; scale: 1; }
-@-o-viewport { width: device-width; scale: 1; }
-@-webkit-viewport { width: device-width; scale: 1; }
-@viewport { width: device-width; scale: 1; }
-
-
 html {
-
-  font-family: 'Quicksand', sans-serif;
+  font-family: Quicksand, sans-serif;
   background-color: #fbdde0;
 }
 
 .logo-text {
-  font-size: 30px;
-  color: #F06F64;
+  font-size: 1.5rem;
+  color: #000;
 }
 
 .logo-center {
@@ -24,7 +16,7 @@ html {
   font-size: 15px;
   color: #fff;
   text-decoration: none;
-  background-color: #F06F64;
+  background-color: #000;
   border-radius: 5px;
 }
 
@@ -38,12 +30,12 @@ html {
 }
 
 h2 {
-  color: #F06F64;
+  color: #000;
 }
 
 .btn {
-  border-color: #F06F64;
-  background-color: #F06F64;
+  border-color: #000;
+  background-color: #000;
   color: #fff;
 }
 
@@ -53,7 +45,7 @@ h2 {
 
 .banner-textoh {
   color: #000;
-  text-align:left;
+  text-align: left;
   font-size: 25px;
 }
 
